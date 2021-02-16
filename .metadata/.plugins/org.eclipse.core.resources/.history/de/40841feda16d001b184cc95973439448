@@ -1,0 +1,5 @@
+package br.com.abosolutions.hrworker.config;
+
+public class YAMLConfig {
+
+}
